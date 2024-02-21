@@ -7,7 +7,7 @@ In this project, I just practice my basic HTML skills.
 
 
 ## Links
-[live demo](https://github.com)
+[live demo](https://fath-nasrudin.github.io/cookpad-superlight)
 
 
 ## Showcase
