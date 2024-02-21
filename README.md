@@ -11,4 +11,9 @@ In this project, I just practice my basic HTML skills.
 
 
 ## Showcase
+desktop view
+![desktop view](doc-images/desktop-view.png)
 
+mobile view
+
+![mobile view](doc-images/mobile-view.png)
