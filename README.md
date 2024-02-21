@@ -1,7 +1,7 @@
 # cookpad-superlight
 
 ## Introduction
-cookpad-superlight is just a simple website with 4 HTML files that have a fancy name.
+cookpad-superlight is just a simple html-only website with 4 HTML files that have a fancy name.
 
 In this project, I just practice my basic HTML skills.
 
